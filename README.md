@@ -20,9 +20,9 @@ git clone https://github.com/SonderXiaoming/homo
 
 2. 启用：
 
-   在 HoshinoBot\hoshino\config\ **bot**.py 文件的 MODULES_ON 加入 'stock-check'
+在 HoshinoBot\hoshino\config\ **bot**.py 文件的 MODULES_ON 加入 'stock-check'
 
-   然后重启 HoshinoBot
+然后重启 HoshinoBot
 
 ## 使用教程：
 
